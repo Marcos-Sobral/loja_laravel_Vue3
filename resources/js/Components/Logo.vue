@@ -1,3 +1,3 @@
 <template>
-    <img src="../../../public/assets/img/Malas/logo/santamalas.png">
+    <img src="../../../public/assets/img/Malas/logo/excusiva.png">
 </template>

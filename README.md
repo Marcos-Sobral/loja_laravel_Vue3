@@ -1,11 +1,10 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 
-## Minhas Malas - Sobre Aplicação
+## Alugue aqui - Sobre Aplicação
 
 
-
-Minhas malas é um sistema de controle de estoque e reserva de malas web que utiliza o framework PHP Laravel. O Minhas malas permite o administrado criar e gerenciar seus produtos sem muito contato com os clientes. Dessa maneira, o cliente entra no site e reserva sua mala, assim o sistema notifica o administrado que houve uma reserva e informando os dados do cliente como: nome, cpf, data de nascimento, sexo, endereço, telefone. Portanto, o administrador passaria tais dados para o entregador que localizaria o cliente e efetua o recebimento do pagamento manualmente.
+Alugue aqui é um sistema de controle de estoque e reserva de diversos produtos dentre malas, patins e etc... Assim para uma maior compartibilidade de dispositivos, essa é uma aplicação web que utiliza o framework PHP Laravel para o seu backend e o frontend integrado com Vuejs, tendo uma API chamada Inertia para fazer a comunicação entre ambos os lados. O Alugue aqui permite o administrado criar e gerenciar seus produtos sem muito contato com os clientes. Dessa maneira, o cliente entra no site e reserva sua mala, assim o sistema notifica o administrado que houve uma reserva e informando os dados do cliente como: nome, cpf, data de nascimento, sexo, endereço, telefone. Portanto, o administrador passaria tais dados para o entregador que localizaria o cliente e efetua o recebimento do pagamento manualmente.
 
 ### Sumário 
 * [Instalação de recursos para o ambiente](#ambiente)

@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="{{ URL::asset('assets/css/footer.css'); }} " media="screen" />
     <link rel="stylesheet" type="text/css" href="{{ URL::asset('assets/css/responsive.css'); }} " media="screen" />
     <script src="https://kit.fontawesome.com/7d7b31a9bc.js" crossorigin="anonymous"></script>
-    <title>Minhas Malas - home</title>
+    <title>Alugue aqui - home</title>
 </head>
 <body>
     <header>
